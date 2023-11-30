@@ -1,0 +1,56 @@
+dt{
+
+			color: blueviolet;
+		}
+li{
+
+	color: red;
+}
+#bir.bir{
+
+	color: rgb(103, 142, 78);
+}
+.box-1{
+background-color: brown;
+background-image: url(van.jpg);
+background-size: cover;
+width: 640px;
+height: 360px;
+
+}
+#box-1{
+
+	/*	
+	margin: 0;
+	padding: 0;
+	margin-left: 50px;
+	margin-right: 50px;*/
+	width: 500px;
+	height: 500px;
+	padding-left: 10px;
+	padding-right: 20px;
+	border: 5px solid greenyellow;
+}
+
+
+#box-2{
+
+	width: 100%;
+	height: 100px;
+	background-color: aqua;
+}
+#box-3{
+
+	width: 50%;
+	height: 100px;
+	background-color: rgb(34, 54, 54);
+	border-width: 3px;
+	border-color: blue;
+	border-style: solid;
+}
+h1{font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+	font-family: Arial, Helvetica, sans-serif;
+}
